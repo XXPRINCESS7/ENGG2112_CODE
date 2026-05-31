@@ -130,7 +130,7 @@ The Streamlit MVP allows users to:
 To run the Streamlit MVP application, use:
 
 ```bash
-python -m streamlit run mvp/app.py
+python -m streamlit run app.py
 ```
 
 The MVP automatically uses:
